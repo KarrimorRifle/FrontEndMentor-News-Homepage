@@ -1,0 +1,23 @@
+{
+  "name": "news-homepage-main",
+  "version": "1.0.0",
+  "description": "Front End Mentor Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarrimorRifle/FrontEndMentor-News-Homepage.git"
+  },
+  "author": "Samuel T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarrimorRifle/FrontEndMentor-News-Homepage/issues"
+  },
+  "homepage": "https://github.com/KarrimorRifle/FrontEndMentor-News-Homepage#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
